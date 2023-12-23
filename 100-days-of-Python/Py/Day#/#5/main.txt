@@ -1,0 +1,5 @@
+#for loop
+#for loop and range
+#Exercise 1: "Python For Loop"
+#Exercise 2:"Python with range"
+#Exercise 3:"Python with range -2"
