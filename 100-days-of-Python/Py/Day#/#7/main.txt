@@ -1,0 +1,9 @@
+here we leanrned about how the hangman game works and how to tackle the different stages..
+first we generate a flowchart on how the hangman game works for easy reference...
+then we implement the flowchart to code step by step..
+1. Generate random word from dictionary:
+2.guess the letter 
+3.check if the letter is in the randomly generated word or not 
+4.if yes repalce blank with the letter in the blanks generated earlier..
+5.else loses a life 
+6.game continued until either life is lost or all words are guessed.
