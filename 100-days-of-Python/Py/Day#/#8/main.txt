@@ -1,0 +1,6 @@
+we are mainly dealing with funtions with input 
+i.e def function(something):
+    #do with  something
+    #
+    #
+imagine it like different pendrives on computer
