@@ -1,0 +1,9 @@
+#Dictionary
+-> key and values 
+-> how dictionaries are used and accessed
+-> how datas inside dictionaries are accessed 
+#Nesting 
+- nested dictionary: a dictionary that contains another dictionary as one of its elements.
+- accessing the data in a nested dictionary
+-both list and dictionaries can be nested inside a dictionary to two different keys 
+-list nested in a dcitionary which is again nested inside another dictionary
