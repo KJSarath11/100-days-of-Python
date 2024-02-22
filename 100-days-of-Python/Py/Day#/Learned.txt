@@ -1,0 +1,10 @@
+1.Inputs
+2.Data Types
+3.If-else
+4.List
+5.For loop
+6.Built in functions
+7.Hangman 
+8.Functions with inputs
+9.Dictionary and nesting
+10.Function with outputs

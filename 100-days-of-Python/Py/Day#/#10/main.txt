@@ -1,0 +1,16 @@
+#Functions with outputs
+
+-uses return to return the result
+-return can be stored into a variable as well
+-filling an empty bottle 
+- .title() helps to capitalize ever starting letter of a word 
+-output of inner function becomes output of outer function
+-return helps to exit a function with or without output
+
+#Docstrings
+
+-""" This is a docstring. It explains what the function does."""
+-docstrings are used for documenting functions, modules and classes
+-they provide information about the purpose of the function/class and how it works.
+
+
