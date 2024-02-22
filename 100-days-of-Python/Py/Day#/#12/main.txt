@@ -1,0 +1,8 @@
+#scope
+-local scope and global scope
+-variable inside a function considered as a local scope since only the function 
+ is able to access it
+-global variable can be accessed by any part of the program. It is available throughout
+ the life cycle of  the application or script in which it was declared.
+-Python there is "no block scope". Inside a if/else/for/while code block is the same as outside it.
+-"Name error" occurs when trying to print a variable that is local to a_function() and is only available inside the function. 
