@@ -9,4 +9,6 @@
 9.Dictionary and nesting
 10.Function with outputs
 11.Blackjack Capstone Project (Combination of everything learned until now)
+12.Local and Global scope
+13.Debugging
 

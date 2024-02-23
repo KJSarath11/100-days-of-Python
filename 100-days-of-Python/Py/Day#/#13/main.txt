@@ -1,0 +1,11 @@
+#Debugging
+-describe the problem
+-reproduce the bug
+-play as computer and evaluate each line
+-fixing errors and watching for red lines
+-sqaush bugs with print() statement
+-using a Debugger
+-take abreak
+-ask a friend
+-run the code often
+-stackoverflow
