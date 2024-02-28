@@ -1,0 +1,6 @@
+HIGH OR LOW
+#generating random A and random B 
+#comparing them to see who has more follower
+#guessing who has more follower (high or low)
+#if right then you points are counted
+#if wrong then display the score and then print you are wrong
