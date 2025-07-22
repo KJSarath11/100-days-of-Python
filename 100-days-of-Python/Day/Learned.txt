@@ -12,5 +12,12 @@
 12.Local and Global scope
 13.Debugging
 14.Learing the high or low problem
+15.Coffee Machine
+[INTERMEDIATE]
+16.OOPS intro
+17.OOPS pt2- constructor
+18. Turtle module and GUI
+
+
 
 
